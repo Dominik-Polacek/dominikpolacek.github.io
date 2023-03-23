@@ -1,0 +1,62 @@
+.picture{
+  position: relative;
+  left: 25%;
+}
+.container {
+ /* width: 550px;
+  margin: 0 auto;*/
+}
+header{
+  position: absolute;
+  bottom: 10%;
+  left: 15%;
+  line-height: 0 /* odsadí mezeru mezi textem na 0*/
+}
+.text {
+ width: 550px;
+ margin: 0 auto;
+}
+.GALAXY{
+  width: 400px;
+  line-height: normal;
+  color: white;
+  background: #222;
+  display: inline-block; /* zarovnání do středu "krabice" */
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  position: relative;
+}
+.uvozovky{
+  position:absolute;
+  top: 1px;
+  left: 0px;
+  font-size: 70px;
+}
+
+.MASTER{
+  width: 400px;
+  line-height: normal;
+  color: white;
+  background: #222;
+  display: inline-block; /* zarovnání do středu "krabice" */
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  position: relative;
+}
+.uvozovky2{
+  position:absolute;
+  top: 1px;
+  left: 0px;
+  font-size: 70px;
+}
+.Wally{
+  margin-top: 30px;
+  line-height: 0;
+}
+hr{        /* vodorovná čára - zarovnání*/
+ height: 3px;
+  background: black;
+  border: solid 1px black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
